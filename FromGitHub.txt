@@ -1,2 +1,4 @@
 this is the remote from github
-More changes
+
+Hey I just cloned my project
+from my GitHub.com
